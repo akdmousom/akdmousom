@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Arijit Kumar Das</h1>
-<h3 align="center">A Passionate Web Developer From Bangladesh</h3>
+<div align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+<p>I ❤ React</p>
+</div>
+<h3 align="center">A Passionate MERN Developer From Bangladesh</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=akdmausom&label=Profile%20views&color=0e75b6&style=flat" alt="Arijit Kumar Das" /> 
@@ -27,13 +30,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-</div>
+
 
 <br>
 
@@ -69,11 +66,11 @@ Here are some ideas to get you started:
 <h2>Programming Language 📚</h2>
 
   <p  align="left">
-  <div><h3>Using⤵ </h3></div>
+  <div><h3>Using </h3></div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript" />
   </a>
-   <div><h3>Learning⤵ </h3></div>
+   <div><h3>Learning </h3></div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,typescript" />
   </a>
@@ -83,11 +80,11 @@ Here are some ideas to get you started:
 
 <h2>Web Application Backend Technology </h2>
 <p align="left">
-  <div><h3>Using⤵ </h3></div>
+  <div><h3>Using </h3></div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
-   <div><h3>Learning⤵ </h3></div>
+   <div><h3>Learning </h3></div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django" />
   </a>
@@ -96,11 +93,11 @@ Here are some ideas to get you started:
 
 <h2>Web Application Frontend Technology </h2>
 <p align="left">
-<div><h3>Using⤵ </h3></div>
+<div><h3>Using </h3></div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,css,sass,html" />
   </a>
-    <div><h3>Learning⤵ </h3></div>
+    <div><h3>Learning </h3></div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,materialui" />
   </a>
@@ -108,12 +105,12 @@ Here are some ideas to get you started:
 <br>
 
 <h2>Database For Web Application</h2>
-<div><h3>Using⤵ </h3></div>
+<div><h3>Using </h3></div>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
-  <div><h3>Learning⤵ </h3></div>
+  <div><h3>Learning </h3></div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   </a>
@@ -128,7 +125,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<h2>Tools⤵</h2>
+<h2>Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,xd,idea,vscode,postman,linux" />
