@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br><br>
-<h1 align="left">Languages and Tools:</h1>
+# Languages and Tools:
 <br>
 <h2>Programming Language</h2>
 
