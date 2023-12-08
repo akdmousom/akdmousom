@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<br><br><br><br><br>
+<br><br>
 <h1 align="left">Languages and Tools:</h1>
 <br>
 <h2>Programming Language</h2>
