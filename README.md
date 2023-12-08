@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/contact_arijit" target="blank"><img align="center" src="/assets/social_images/Logo_of_Twitter.svg.png" alt="contact_arijit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/contact-arijit" target="blank"><img align="center" src="/assets/social_images/702300.png" alt="contact-arijit" height="30" width="40" /></a>
+<a href="https://twitter.com/contact_arijit" target="blank"><img align="center" src="/assets/social_images/Logo_of_Twitter.svg.png" alt="contact_arijit" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/contact-arijit" target="blank"><img align="center" src="/assets/social_images/702300.png" alt="contact-arijit" height="40" width="40" /></a>
 
 
 </p>
