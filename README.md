@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p style="color:black; border-radius: 50px 0px; font-size: 20px; background-image: linear-gradient(18deg, #61dbfb, #96EFFF);"><strong>I ❤ React</strong></p>
 </div>
 <h3 align="center">A Passionate MERN Developer From Bangladesh</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">Hello I am Arijit Kumar Das. Welcome to my profile I am a Junior 𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, I create and design website with 𝐌𝐄𝐑𝐍 𝐒𝐓𝐀𝐂𝐊 technology. I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. Also, I love exploring new tech stacks 💻 and leveraging them to build cool kinds of stuff 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=akdmausom&label=Profile%20views&color=0e75b6&style=flat" alt="Arijit Kumar Das" /> 
  <img src="https://img.shields.io/badge/Languages-JavaScript | Typescript | Python |  -green.svg" alt="Arijit Kumar Das" languages" />
