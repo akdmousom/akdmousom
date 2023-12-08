@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I dream in my sleep. I am coding and keep getting errors from console**
 
-<br>
+<br><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/contact_arijit" target="blank"><img align="center" src="/assets/social_images/Logo_of_Twitter.svg.png" alt="contact_arijit" height="40" width="40" /></a>
