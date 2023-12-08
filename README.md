@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **contact.mousom@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I dream in my sleep. I am coding and keep getting errors from console**
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -149,8 +149,6 @@ Here are some ideas to get you started:
 <img src="https://github-profile-trophy.vercel.app/?username=akdmausom&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
