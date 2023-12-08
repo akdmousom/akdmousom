@@ -51,10 +51,9 @@ Here are some ideas to get you started:
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/contact_arijit" target="blank"><img align="center" src="https://raw.githubusercontent.com/akdmausom/akdmausom/2c3377b9a3f24112b0ca96ee7aa5539c4d854252/twitter.svg" alt="contact_arijit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/contact-arijit" target="blank"><img align="center" src="https://raw.githubusercontent.com/akdmausom/akdmausom/2c3377b9a3f24112b0ca96ee7aa5539c4d854252/linked-in-alt.svg" alt="contact-arijit" height="30" width="40" /></a>
-<a href="https://fb.com/contact.arijitkumardas" target="blank"><img align="center" src="https://raw.githubusercontent.com/akdmausom/akdmausom/2c3377b9a3f24112b0ca96ee7aa5539c4d854252/facebook.svg" alt="contact.arijitkumardas" height="30" width="40" /></a>
-<a href="https://instagram.com/contact.mousom" target="blank"><img align="center" src="https://raw.githubusercontent.com/akdmausom/akdmausom/2c3377b9a3f24112b0ca96ee7aa5539c4d854252/instagram.svg" alt="contact.mousom" height="30" width="40" /></a>
+<a href="https://twitter.com/contact_arijit" target="blank"><img align="center" src="/assets/social_images/Logo_of_Twitter.svg.png" alt="contact_arijit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/contact-arijit" target="blank"><img align="center" src="/assets/social_images/702300.png" alt="contact-arijit" height="30" width="40" /></a>
+
 
 </p>
 <br>
