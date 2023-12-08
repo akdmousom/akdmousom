@@ -82,8 +82,9 @@ Here are some ideas to get you started:
   <div><h3>Using </h3></div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express" />
+     <img src="/assets/social_images/mongoose.svg" height="40" width="40" />
   </a>
-  <img src="/assets/social_images/mongoose.svg" height="40" width="40" />
+ 
    <div><h3>Learning </h3></div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django" />
