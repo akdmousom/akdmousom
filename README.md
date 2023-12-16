@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Passionate MERN Developer From Bangladesh</h3>
 <p align="center">Hello I am Arijit Kumar Das. Welcome to my profile I am a Junior 𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, I create and design website with 𝐌𝐄𝐑𝐍 𝐒𝐓𝐀𝐂𝐊 technology. I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. Also, I love exploring new tech stacks 💻 and leveraging them to build cool kinds of stuff 🛠️</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=akdmausom&label=Profile%20views&color=0e75b6&style=flat" alt="Arijit Kumar Das" /> 
+ <img src="https://komarev.com/ghpvc/?username=akdmousom&label=Profile%20views&color=0e75b6&style=flat" alt="Arijit Kumar Das" /> 
  <img src="https://img.shields.io/badge/Languages-JavaScript | Typescript | Python |  -green.svg" alt="Arijit Kumar Das" languages" />
 
 </p>
@@ -156,9 +156,9 @@ Here are some ideas to get you started:
 <h2 align="left">GitHub Stats</h2>
 <div align="center">
  
-![Arijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdmausom\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Arijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdmousom\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akdmausom&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akdmousom&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 
@@ -168,7 +168,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Activity</h2>
 
-![Arijit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=akdmausom&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Arijit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=akdmousom&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
