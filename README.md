@@ -164,6 +164,13 @@ Here are some ideas to get you started:
 
 <br><br>
 
+<div align="center" width="100%">
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdmousom\&layout=compact\&theme=midnight-purple\&show_icons=true)
+</div>
+
+<br><br>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2 align="left">Activity</h2>
